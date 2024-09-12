@@ -1,0 +1,655 @@
+/* Responsive code for large screen */
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .nav-item {
+        margin: 0 10px;
+    }
+
+    .hero-wrapper {
+        padding-top: 85px;
+    }
+
+    .action-btn ul li:last-child a {
+        margin-left: 5px;
+    }
+
+    .hero-content-box h5 {
+        padding-bottom: 0px;
+    }
+
+    .hero-content-box h1 {
+        font-size: 27px;
+        line-height: 46px;
+    }
+
+    .request-demo-area {
+        padding: 60px 0;
+    }
+
+    .streamline-content-wraprer {
+        margin-top: 30px;
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+/* Responsive code for tablet / leptop screen */
+@media screen and (min-width:768px) and (max-width:991px) {
+    .hero-content-box h1 {
+        font-size: 23px;
+        line-height: 32px;
+    }
+
+    .hero-top-green-circle {
+        padding-bottom: 35px;
+    }
+
+    .hero-content-box h5 {
+        padding-bottom: 10px;
+    }
+
+    .hero-content-bottom-circle {
+        margin-top: 45px;
+    }
+
+    /*  AI assistant Start */
+    .ai-assistant-title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .ai-assistant-wrapper {
+        padding-top: 40px;
+    }
+
+    .single-assist-box {
+        padding: 20px 23px;
+    }
+
+    .single-assist-box:nth-child(2) {
+        margin: 15px 0;
+    }
+
+    .platform-contetn h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .team-wrapper {
+        margin-top: 12px;
+    }
+
+    .request-demo-area {
+        padding: 50px 0;
+    }
+
+    .streamline-content-wraprer {
+        margin-top: 30px;
+    }
+
+    .cheers-content-wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .single-cheers {
+        width: 48%;
+    }
+
+    .public-cheers-tittle h2 {
+        margin-top: 0px;
+    }
+
+    .pricing-area {
+        padding: 40px 0;
+    }
+
+    .pricing-content-box {
+        margin-top: 30px;
+    }
+
+    .package-details.basic-pck {
+        padding: 35px 0 0 0;
+    }
+
+    .businesses-trust-content {
+        border-left: none;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    
+    .categories-faq-rh {
+        padding-top: 0;
+    }
+
+    .categories {
+        margin-top: 30px;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+
+/* Responsive code for mobile screen */
+@media screen and (min-width:576px) and (max-width:767px) {
+    .hero-area {
+        height: auto;
+    }
+
+    .hero-area {
+        padding: 50 !important;
+    }
+
+    .hero-wrapper {
+        padding-top: 40px;
+    }
+
+    .hero-top-green-circle {
+        padding-bottom: 30px;
+    }
+
+    .hero-content-box h5 {
+        padding-bottom: 5px;
+    }
+
+    .hero-content-box h1 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+
+    .hero-content-bottom-circle {
+        margin-top: 30px;
+    }
+
+    .hero-img-box img {
+        width: 300px;
+        margin: auto;
+        display: block;
+        margin-top: 30px;
+    }
+
+    .go-next-section-button {
+        padding: 40px 0;
+    }
+
+
+/*  AI assistant Start */
+    .ai-assistant-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .ai-assistant-title h2 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .ai-assistant-wrapper {
+        padding-top: 30px;
+    }
+
+    .ai-assistant-man {
+        padding-bottom: 30px;
+    }
+
+    .ai-assistant-man img {
+        width: 400px;
+        max-width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .single-assist-box {
+        padding: 20px 23px;
+    }
+
+    .single-assist-box:nth-child(2) {
+        margin: 15px 0;
+    }
+
+    .customer-experience-area {
+        padding: 30px 0;
+    }
+
+    .experience-tittle h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .companys-logo-wrapper {
+        padding-top: 25px;
+    }
+
+    .platform-member-img {
+        text-align: center;
+    }
+
+    .favorite-platform {
+        padding: 25px 0 35px 0;
+    }
+
+    .platform-contetn h2 {
+        font-size: 22px;
+        line-height: 35px;
+        text-align: center;
+    }
+
+    .platform-contetn a {
+        margin: auto;
+    }
+
+    .request-demo-area {
+        padding: 40px 0;
+    }
+
+    .req-demo-tittle h2 {
+        font-size: 24px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .streamline-area {
+        padding: 40px 0 60px 0;
+    }
+
+    .streamline-title h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .streamline-title p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .streamline-content-wraprer {
+        margin-top: 30px;
+    }
+
+    .public-cheers-area {
+        padding: 40px 0 40px 0;
+    }
+
+    .public-cheers-tittle h2 {
+        font-size: 29px;
+        line-height: 35px;
+        margin-top: 10px;
+    }
+
+    .public-cheers-content {
+        margin-top: 0px;
+    }
+
+    .pricing-area {
+        padding: 40px 0;
+    }
+
+    .pricing-content-box {
+        margin-top: 30px;
+    }
+
+    .package-details.basic-pck {
+        padding: 35px 0 0 0;
+    }
+
+    
+    .businesses-trust-content {
+        border-left: none;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+
+    .platforms-tittle-rh h2 {
+        font-size: 29px;
+        margin-bottom: 20px;
+    }
+
+    .categories-faq-rh {
+        padding-top: 0;
+    }
+
+    .categories {
+        margin-top: 30px;
+    }
+
+    .accordion-rh {
+        margin-top: 30px;
+    }
+
+    .faq-tittle-rh h2 {
+        line-height: 30px;
+        margin: 15px 0 5px 0;
+    }
+    .pricing-content-box {
+        margin-top: 50px;
+    }
+
+    .faq-area-rh {
+        padding-bottom: 60px;
+    }
+
+
+
+
+}
+
+
+
+
+
+/* Responsive code for small mobile screen */
+@media screen and (max-width:575px) {
+    .hero-area {
+        height: auto;
+    }
+
+    .hero-area {
+        padding: 50 !important;
+    }
+
+    .hero-wrapper {
+        padding-top: 40px;
+    }
+
+    .hero-top-green-circle {
+        padding-bottom: 30px;
+    }
+
+    .hero-content-box h5 {
+        padding-bottom: 5px;
+    }
+
+    .hero-content-box h1 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .hero-content-bottom-circle {
+        margin-top: 30px;
+    }
+
+    .hero-img-box img {
+        width: 300px;
+        margin: auto;
+        display: block;
+        margin-top: 30px;
+    }
+
+    .go-next-section-button {
+        padding: 40px 0;
+    }
+
+    /*  AI assistant Start */
+    .ai-assistant-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .ai-assistant-title h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .ai-assistant-wrapper {
+        padding-top: 20px;
+    }
+
+    .ai-assistant-man {
+        padding-bottom: 30px;
+    }
+
+    .single-assist-box {
+        padding: 20px 23px;
+    }
+
+    .single-assist-box:nth-child(2) {
+        margin: 15px 0;
+    }
+
+    .customer-experience-area {
+        padding: 30px 0;
+    }
+
+    .experience-tittle h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .companys-logo-wrapper {
+        padding-top: 0px;
+    }
+
+    .companys-logo-wrapper ul {
+        flex-wrap: wrap !important;
+    }
+
+    .companys-logo-wrapper ul li {
+        width: calc(100% / 2);
+        margin-top: 20px;
+    }
+
+    .favorite-platform {
+        padding: 25px 0 35px 0;
+    }
+
+    .platform-contetn h2 {
+        font-size: 20px;
+        line-height: 25px;
+        text-align: center;
+    }
+
+    .platform-contetn a {
+        margin: auto;
+        max-width: 100%;
+    }
+
+    .potential-team-area {
+        padding: 40px 0 40px 0;
+    }
+
+    .potential-team-tittle h2 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .potential-team-tittle p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .team-wrapper {
+        margin-top: 0px;
+    }
+
+    .single-team {
+        padding: 25px;
+    }
+
+    .team-content h2 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .team-content p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .single-team-2 .team-flex {
+        flex-direction: column;
+    }
+
+    .single-team-2 .team-flex .team-content {
+        width: 100%;
+    }
+
+    .team-flex .team-img {
+        margin: auto;
+    }
+
+    .team-flex .team-content {
+        padding-right: 0px;
+    }
+
+    .request-demo-area {
+        padding: 40px 0;
+    }
+
+    .req-demo-tittle h2 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+
+    .streamline-area {
+        padding: 40px 0 60px 0;
+    }
+
+    .streamline-accordion ul li .streamline-accorion-title {
+        margin: 0 auto;
+    }
+
+    .streamline-title h2 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .streamline-title p {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 0px;
+    }
+
+    .streamline-content-wraprer {
+        margin-top: 30px;
+    }
+
+    .streamline-sr p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .public-cheers-area {
+        padding: 40px 0 40px 0;
+    }
+
+    .public-cheers-tittle h2 {
+        font-size: 25px;
+        line-height: 31px;
+        margin-top: 10px;
+    }
+
+    .public-cheers-tittle p {
+        font-size: 14px;
+    }
+
+    .public-cheers-content {
+        margin-top: 0px;
+    }
+
+    .pricing-area {
+        padding: 40px 0;
+    }
+
+    .pricing-content-box {
+        margin-top: 30px;
+    }
+
+    .package-details.basic-pck {
+        padding: 35px 0 0 0;
+    }
+
+    .businesses-trust-area {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .businesses-trust-content h2 {
+        font-size: 25px;
+    }
+
+    .businesses-trust-content p {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .businesses-trust-content {
+        border-left: none;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+
+    .newsletter-titel-rh h2 {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+
+    .newsletter-titel-rh form input[type="email"] {
+        padding-left: 10px;
+    }
+
+    .platforms-tittle-rh h2 {
+        font-size: 24px;
+        line-height: 35px;
+        margin-bottom: 10px;
+    }
+
+    .categories-faq-rh {
+        padding-top: 0;
+    }
+
+    .categories {
+        margin-top: 30px;
+    }
+
+    .accordion-rh {
+        margin-top: 30px;
+    }
+
+    .faq-tittle-rh h2 {
+        line-height: 30px;
+        margin: 15px 0 5px 0;
+        font-size: 25px;
+    }
+
+    .faq-tittle-rh p {
+        line-height: 20px;
+    }
+
+    .legal, .contact, .newsletter {
+        margin-top: 20px;
+    }
+
+    .legal ul li, .contact ul li {
+        margin-top: 8px;
+    }
+    .pricing-content-box {
+        margin-top: 40px;
+    }
+
+    .faq-area-rh {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+
+
+}
